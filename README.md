@@ -6,4 +6,4 @@ CuckooSandbox + n-gram + SciPy
 
 <strong>N-gram 별 유사도 비교</strong>
 
-<img src = "https://user-images.githubusercontent.com/67365440/158656323-527ad0ad-041e-4cf0-8b24-888c13ed8f3c.png" width="600" height="250">
+<img src = "https://user-images.githubusercontent.com/67365440/158656323-527ad0ad-041e-4cf0-8b24-888c13ed8f3c.png" width="600" height="150">
