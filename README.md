@@ -2,8 +2,7 @@
 
 CuckooSandbox + n-gram + SciPy
 
-CuckooSandbox 환경 설치
-https://roklcw.tistory.com/28
+CuckooSandbox 설치: https://roklcw.tistory.com/28
 
 <strong>최종 결과물</strong>
 
