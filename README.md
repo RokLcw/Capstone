@@ -2,6 +2,11 @@
 
 CuckooSandbox + n-gram + SciPy
 
+CuckooSandbox 환경 설치
+https://roklcw.tistory.com/28
+
+<strong>최종 결과물</strong>
+
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/67365440/158656094-1eb6f778-f02d-4b7f-b7d2-6fd9664bd871.gif)
 
 <strong>N-gram 별 유사도 비교</strong>
