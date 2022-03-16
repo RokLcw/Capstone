@@ -1,6 +1,6 @@
 # Capstone-malware-detect-2021
 
-CuckooSandbox(API 리스트·호출, 확장자 변경 탐지) + n-gram + SciPy
+CuckooSandbox (API 리스트·호출, 확장자 변경 탐지) + n-gram + SciPy
 
 CuckooSandbox 설치: https://roklcw.tistory.com/28
 
